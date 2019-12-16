@@ -1,5 +1,3 @@
-sdsg
-
 import math
 
 # angle_of_rotation = angle from 'initial_location'
